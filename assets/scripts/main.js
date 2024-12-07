@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
             state.addEventListener("click", () => {
                 const stateName = state.getAttribute("data-name"); // Get the state name
                 if (stateName) {
-                    const statePage = `States/${stateName.toLowerCase()}.html`; // Generate the page URL
+                    const statePage = `States/${stateName}.html`; // Generate the page URL
                     window.location.href = statePage; // Redirect to the page
                 } else {
                     console.error("State does not have a 'data-id' attribute.");
