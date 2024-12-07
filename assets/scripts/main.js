@@ -69,3 +69,4 @@ document.addEventListener("DOMContentLoaded", () => {
         console.error("SVG element with id 'svg' not found.");
     }
 });
+
