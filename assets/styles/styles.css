@@ -128,3 +128,31 @@ footer {
 footer:hover {
     opacity: 0.9;
 }
+/* Map container styling */
+.map-container {
+    position: relative;
+    text-align: center;
+}
+/* State info box styling */
+#state-info {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    z-index: 10;
+    display: none;
+}
+
+#state-info.hidden {
+    display: none;
+}
+
+#svg path:hover {
+    fill: red !important; /* Change the color to red on hover */
+    cursor: pointer;      /* Indicate interactivity */
+}
