@@ -1,704 +1,352 @@
 [
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },
-    {
-          "name": "Alabama",
-          "population": "5,108,468",
-          "capital": "Montgomery",
-          "bird": {
-            "name": "Northern Flicker",
-            "image": "/images/alabama-bird.png"
-          },
-          "flower": {
-            "name": "Camellia",
-            "image": "/images/alabama-flower.png"
-          },
-          "flagImage": "/images/alabama-flag.png"
-    },
-    {
-          "name": "Alaska",
-          "population": "733,406",
-          "capital": "Juneau",
-          "bird": {
-            "name": "Willow Ptarmigan",
-            "image": "/images/alaska-bird.png"
-          },
-          "flower": {
-            "name": "Forget-Me-Not",
-            "image": "/images/alaska-flower.png"
-          },
-          "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },    
-    {
-    "name": "Alabama",
-    "population": "5,108,468",
-    "capital": "Montgomery",
-    "bird": {
-      "name": "Northern Flicker",
-      "image": "/images/alabama-bird.png"
-    },
-    "flower": {
-      "name": "Camellia",
-      "image": "/images/alabama-flower.png"
-    },
-    "flagImage": "/images/alabama-flag.png"
-    },
-    {
-    "name": "Alaska",
-    "population": "733,406",
-    "capital": "Juneau",
-    "bird": {
-      "name": "Willow Ptarmigan",
-      "image": "/images/alaska-bird.png"
-    },
-    "flower": {
-      "name": "Forget-Me-Not",
-      "image": "/images/alaska-flower.png"
-    },
-    "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },    
-    {
-    "name": "Alabama",
-    "population": "5,108,468",
-    "capital": "Montgomery",
-    "bird": {
-      "name": "Northern Flicker",
-      "image": "/images/alabama-bird.png"
-    },
-    "flower": {
-      "name": "Camellia",
-      "image": "/images/alabama-flower.png"
-    },
-    "flagImage": "/images/alabama-flag.png"
-    },
-    {
-    "name": "Alaska",
-    "population": "733,406",
-    "capital": "Juneau",
-    "bird": {
-      "name": "Willow Ptarmigan",
-      "image": "/images/alaska-bird.png"
-    },
-    "flower": {
-      "name": "Forget-Me-Not",
-      "image": "/images/alaska-flower.png"
-    },
-    "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },    
-    {
-    "name": "Alabama",
-    "population": "5,108,468",
-    "capital": "Montgomery",
-    "bird": {
-      "name": "Northern Flicker",
-      "image": "/images/alabama-bird.png"
-    },
-    "flower": {
-      "name": "Camellia",
-      "image": "/images/alabama-flower.png"
-    },
-    "flagImage": "/images/alabama-flag.png"
-    },
-    {
-    "name": "Alaska",
-    "population": "733,406",
-    "capital": "Juneau",
-    "bird": {
-      "name": "Willow Ptarmigan",
-      "image": "/images/alaska-bird.png"
-    },
-    "flower": {
-      "name": "Forget-Me-Not",
-      "image": "/images/alaska-flower.png"
-    },
-    "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },    
-    {
-    "name": "Alabama",
-    "population": "5,108,468",
-    "capital": "Montgomery",
-    "bird": {
-      "name": "Northern Flicker",
-      "image": "/images/alabama-bird.png"
-    },
-    "flower": {
-      "name": "Camellia",
-      "image": "/images/alabama-flower.png"
-    },
-    "flagImage": "/images/alabama-flag.png"
-    },
-    {
-    "name": "Alaska",
-    "population": "733,406",
-    "capital": "Juneau",
-    "bird": {
-      "name": "Willow Ptarmigan",
-      "image": "/images/alaska-bird.png"
-    },
-    "flower": {
-      "name": "Forget-Me-Not",
-      "image": "/images/alaska-flower.png"
-    },
-    "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    },
-    {
-        "name": "Alabama",
-        "population": "5,108,468",
-        "capital": "Montgomery",
-        "bird": {
-          "name": "Northern Flicker",
-          "image": "/images/alabama-bird.png"
-        },
-        "flower": {
-          "name": "Camellia",
-          "image": "/images/alabama-flower.png"
-        },
-        "flagImage": "/images/alabama-flag.png"
-    },
-    {
-        "name": "Alaska",
-        "population": "733,406",
-        "capital": "Juneau",
-        "bird": {
-          "name": "Willow Ptarmigan",
-          "image": "/images/alaska-bird.png"
-        },
-        "flower": {
-          "name": "Forget-Me-Not",
-          "image": "/images/alaska-flower.png"
-        },
-        "flagImage": "/images/alaska-flag.png"
-    },
-    {
-      "name": "Alabama",
-      "population": "5,108,468",
-      "capital": "Montgomery",
-      "bird": {
-        "name": "Northern Flicker",
-        "image": "/images/alabama-bird.png"
-      },
-      "flower": {
-        "name": "Camellia",
-        "image": "/images/alabama-flower.png"
-      },
-      "flagImage": "/images/alabama-flag.png"
-    },
-    {
-      "name": "Alaska",
-      "population": "733,406",
-      "capital": "Juneau",
-      "bird": {
-        "name": "Willow Ptarmigan",
-        "image": "/images/alaska-bird.png"
-      },
-      "flower": {
-        "name": "Forget-Me-Not",
-        "image": "/images/alaska-flower.png"
-      },
-      "flagImage": "/images/alaska-flag.png"
-    }
-    
-  ]
-  
+  {
+    "State": "Alabama",
+    "Population": "5,108,468",
+    "Capitol": "Montgomery",
+    "Bird": "Yellowhammer",
+    "Flower": "Camellia"
+  },
+  {
+    "State": "Alaska",
+    "Population": "733,406",
+    "Capitol": "Juneau",
+    "Bird": "Willow Ptarmigan",
+    "Flower": "Forget Me Not"
+  },
+  {
+    "State": "Arizona",
+    "Population": "7,431,344",
+    "Capitol": "Phoenix",
+    "Bird": "Cactus Wren",
+    "Flower": "Saguaro cactus blossom"
+  },
+  {
+    "State": "Arkansas",
+    "Population": "3,067,732",
+    "Capitol": "Little Rock",
+    "Bird": "Mockingbird",
+    "Flower": "Apple blossom"
+  },
+  {
+    "State": "California",
+    "Population": "38,965,193",
+    "Capitol": "Sacramento",
+    "Bird": "California Valley Quail",
+    "Flower": "Golden poppy"
+  },
+  {
+    "State": "Colorado",
+    "Population": "5,877,610",
+    "Capitol": "Denver",
+    "Bird": "Lark Bunting",
+    "Flower": "Rocky Mountain columbine"
+  },
+  {
+    "State": "Connecticut",
+    "Population": "3,617,176",
+    "Capitol": "Hartford",
+    "Bird": "Robin",
+    "Flower": "Mountain laurel"
+  },
+  {
+    "State": "Delaware",
+    "Population": "1,031,890",
+    "Capitol": "Dover",
+    "Bird": "Blue Hen Chicken",
+    "Flower": "Peach blossom"
+  },
+  {
+    "State": "Florida",
+    "Population": "22,610,726",
+    "Capitol": "Tallahassee",
+    "Bird": "Mockingbird",
+    "Flower": "Orange blossom"
+  },
+  {
+    "State": "Georgia",
+    "Population": "11,029,227",
+    "Capitol": "Atlanta",
+    "Bird": "Brown Thrasher",
+    "Flower": "Cherokee rose"
+  },
+  {
+    "State": "Hawaii",
+    "Population": "1,435,138",
+    "Capitol": "Honolulu",
+    "Bird": "Nene",
+    "Flower": "Hibiscus"
+  },
+  {
+    "State": "Idaho",
+    "Population": "1,964,726",
+    "Capitol": "Boise",
+    "Bird": "Mountain Bluebird",
+    "Flower": "Syringa"
+  },
+  {
+    "State": "Illinois",
+    "Population": "12,549,689",
+    "Capitol": "Springfield",
+    "Bird": "Cardinal",
+    "Flower": "Violet"
+  },
+  {
+    "State": "Indiana",
+    "Population": "6,862,199",
+    "Capitol": "Indianapolis",
+    "Bird": "Cardinal",
+    "Flower": "Peony"
+  },
+  {
+    "State": "Iowa",
+    "Population": "3,207,004",
+    "Capitol": "Des Moines",
+    "Bird": "Eastern Goldfinch",
+    "Flower": "Wild rose"
+  },
+  {
+    "State": "Kansas",
+    "Population": "2,940,546",
+    "Capitol": "Topeka",
+    "Bird": "Western Meadowlark",
+    "Flower": "Sunflower"
+  },
+  {
+    "State": "Kentucky",
+    "Population": "4,526,154",
+    "Capitol": "Frankfort",
+    "Bird": "Cardinal",
+    "Flower": "Goldenrod"
+  },
+  {
+    "State": "Louisiana",
+    "Population": "4,573,749",
+    "Capitol": "Baton Rouge",
+    "Bird": "Eastern Brown Pelican",
+    "Flower": "Magnolia"
+  },
+  {
+    "State": "Maine",
+    "Population": "1,395,722",
+    "Capitol": "Augusta",
+    "Bird": "Chickadee",
+    "Flower": "White pine cone and tassel"
+  },
+  {
+    "State": "Maryland",
+    "Population": "6,180,253",
+    "Capitol": "Annapolis",
+    "Bird": "Baltimore Oriole",
+    "Flower": "Black-eyed susan"
+  },
+  {
+    "State": "Massachusetts",
+    "Population": "7,001,399",
+    "Capitol": "Boston",
+    "Bird": "Chickadee",
+    "Flower": "Mayflower"
+  },
+  {
+    "State": "Michigan",
+    "Population": "10,037,261",
+    "Capitol": "Lansing",
+    "Bird": "American Robin",
+    "Flower": "Apple blossom"
+  },
+  {
+    "State": "Minnesota",
+    "Population": "5,737,915",
+    "Capitol": "Saint Paul",
+    "Bird": "Common Loon",
+    "Flower": "Lady slipper"
+  },
+  {
+    "State": "Mississippi",
+    "Population": "2,939,690",
+    "Capitol": "Jackson",
+    "Bird": "Mockingbird",
+    "Flower": "evergreen magnolia"
+  },
+  {
+    "State": "Missouri",
+    "Population": "6,196,156",
+    "Capitol": "Jefferson City",
+    "Bird": "Bluebird",
+    "Flower": "Hawthorn"
+  },
+  {
+    "State": "Montana",
+    "Population": "1,132,812",
+    "Capitol": "Helena",
+    "Bird": "Western Meadowlark",
+    "Flower": "Bitterroot"
+  },
+  {
+    "State": "Nebraska",
+    "Population": "1,978,379",
+    "Capitol": "Lincoln",
+    "Bird": "Western Meadowlark",
+    "Flower": "Goldenrod"
+  },
+  {
+    "State": "Nevada",
+    "Population": "3,194,176",
+    "Capitol": "Carson City",
+    "Bird": "Mountain Bluebird",
+    "Flower": "Sagebrush"
+  },
+  {
+    "State": "New Hampshire",
+    "Population": "1,402,054",
+    "Capitol": "Concord",
+    "Bird": "Purple Finch",
+    "Flower": "Purple lilac"
+  },
+  {
+    "State": "New Jersey",
+    "Population": "9,290,841",
+    "Capitol": "Trenton",
+    "Bird": "Eastern Goldfinch",
+    "Flower": "Purple violet"
+  },
+  {
+    "State": "New Mexico",
+    "Population": "2,114,371",
+    "Capitol": "Santa Fe",
+    "Bird": "Roadrunner",
+    "Flower": "Yucca"
+  },
+  {
+    "State": "New York",
+    "Population": "19,571,216",
+    "Capitol": "Albany",
+    "Bird": "Bluebird",
+    "Flower": "Rose"
+  },
+  {
+    "State": "North Carolina",
+    "Population": "10,835,491",
+    "Capitol": "Raleigh",
+    "Bird": "Cardinal",
+    "Flower": "Dogwood"
+  },
+  {
+    "State": "North Dakota",
+    "Population": "783,926",
+    "Capitol": "Bismarck",
+    "Bird": "Western Meadowlark",
+    "Flower": "Wild prairie rose"
+  },
+  {
+    "State": "Ohio",
+    "Population": "11,785,935",
+    "Capitol": "Columbus",
+    "Bird": "Cardinal",
+    "Flower": "Scarlet carnation"
+  },
+  {
+    "State": "Oklahoma",
+    "Population": "4,053,824",
+    "Capitol": "Oklahoma City",
+    "Bird": "Scissor-tailed Flycatcher",
+    "Flower": "Mistletoe"
+  },
+  {
+    "State": "Oregon",
+    "Population": "4,233,358",
+    "Capitol": "Salem",
+    "Bird": "Western Meadowlark",
+    "Flower": "Oregon grape"
+  },
+  {
+    "State": "Pennsylvania",
+    "Population": "12,961,683",
+    "Capitol": "Harrisburg",
+    "Bird": "Ruffed Grouse",
+    "Flower": "Mountain laurel"
+  },
+  {
+    "State": "Rhode Island",
+    "Population": "1,095,962",
+    "Capitol": "Providence",
+    "Bird": "Rhode Island Red",
+    "Flower": "Violet"
+  },
+  {
+    "State": "South Carolina",
+    "Population": "5,373,555",
+    "Capitol": "Columbia",
+    "Bird": "Great Carolina Wren",
+    "Flower": "Carolina yellow jessamine"
+  },
+  {
+    "State": "South Dakota",
+    "Population": "919,318",
+    "Capitol": "Pierre",
+    "Bird": "Ring-necked Pheasant",
+    "Flower": "American pasqueflower"
+  },
+  {
+    "State": "Tennessee",
+    "Population": "7,126,489",
+    "Capitol": "Nashville",
+    "Bird": "Mockingbird",
+    "Flower": "Iris"
+  },
+  {
+    "State": "Texas",
+    "Population": "30,503,301",
+    "Capitol": "Austin",
+    "Bird": "Mockingbird",
+    "Flower": "Bluebonnet"
+  },
+  {
+    "State": "Utah",
+    "Population": "3,417,734",
+    "Capitol": "Salt Lake City",
+    "Bird": "Common American Gull",
+    "Flower": "Sego lily"
+  },
+  {
+    "State": "Vermont",
+    "Population": "647,464",
+    "Capitol": "Montpelier",
+    "Bird": "Hermit Thrush",
+    "Flower": "Red clover"
+  },
+  {
+    "State": "Virginia",
+    "Population": "8,715,698",
+    "Capitol": "Richmond",
+    "Bird": "Cardinal",
+    "Flower": "American dogwood"
+  },
+  {
+    "State": "Washington",
+    "Population": "7,812,880",
+    "Capitol": "Olympia",
+    "Bird": "Willow Goldfinch",
+    "Flower": "Coast rhododendron"
+  },
+  {
+    "State": "West Virginia",
+    "Population": "1,770,071",
+    "Capitol": "Charleston",
+    "Bird": "Cardinal",
+    "Flower": "Rhododendron"
+  },
+  {
+    "State": "Wisconsin",
+    "Population": "5,910,955",
+    "Capitol": "Madison",
+    "Bird": "Robin",
+    "Flower": "Wood violet"
+  },
+  {
+    "State": "Wyoming",
+    "Population": "584,057",
+    "Capitol": "Cheyenne",
+    "Bird": "Western Meadowlark",
+    "Flower": "Indian paintbrush"
+  }
+]
