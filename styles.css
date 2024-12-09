@@ -1,0 +1,192 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 1em 0;
+}
+
+.map-container {
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+.dropdown {
+    width: 200px;
+    margin: 1em auto;
+    padding: 0.5em;
+}
+
+#info-box {
+    margin-top: 1em;
+    border: 1px solid #ccc;
+    padding: 1em;
+    display: none;
+}
+
+img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0.5em auto;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+path {
+    fill: #D3D3D3; /* Default state color */
+    cursor: pointer; /* Pointer cursor to indicate it's clickable */
+    transition: fill 0.2s ease; /* Smooth transition for hover effect */
+}
+
+path:hover {
+    fill: #007BFF; /* Highlight color on hover (same blue as header and footer) */
+}
+
+path.active {
+    fill: #0056b3; /* Slightly darker blue when selected */
+}
+
+
+/* Style for the state information container */
+#info-box {
+    background-color: #e6f7ff; /* Light blue background */
+    border: 3px solid #b3d8f5; /* Slightly darker blue border */
+    border-radius: 15px; /* Rounded corners */
+    padding: 30px;
+    margin: 30px auto; /* Center align */
+    max-width: 90%; /* Responsive width */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Softer shadow */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style for the headings */
+#info-box h2 {
+    color: #005b96; /* Darker blue for text */
+    text-align: center; /* Center align heading */
+    font-size: 2rem; /* Responsive font size */
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+/* Style for paragraphs */
+#info-box p {
+    color: #333; /* Neutral dark gray for text */
+    font-size: 1.2rem; /* Larger font size for readability */
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* Style for the section headers */
+#info-box h3 {
+    color: #0074cc; /* Medium blue */
+    margin-top: 25px;
+    font-size: 1.5rem; /* Responsive subheadings */
+    font-weight: bold;
+    text-align: center;
+}
+
+#info-box img {
+    display: block;
+    margin: 20px auto;
+    width: 200%; /* Double the default size */
+    max-width: 400px; /* Set a max width */
+    height: auto; /* Maintain aspect ratio */
+    border: 2px solid #b3d8f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
+/* Style for the back button */
+#back-to-map {
+    display: block;
+    background-color: #0074cc; /* Blue button */
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2rem; /* Responsive font size for button */
+    font-weight: bold;
+    margin: 30px auto; /* Center the button */
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow for button */
+}
+
+/* Hover effect for the back button */
+#back-to-map:hover {
+    background-color: #005b96; /* Darker blue on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+/* Responsive layout adjustments */
+@media screen and (max-width: 768px) {
+    #info-box {
+        padding: 20px; /* Adjust padding on smaller screens */
+    }
+
+    #info-box h2 {
+        font-size: 1.8rem; /* Smaller font size for smaller screens */
+    }
+
+    #info-box p {
+        font-size: 1rem; /* Adjust text size */
+    }
+
+    #info-box img {
+        width: 90%; /* Make images adapt to smaller screens */
+        max-width: 1200px; /* Allow moderate size on smaller screens */
+    }
+
+    #back-to-map {
+        padding: 10px 20px; /* Smaller padding for the button */
+        font-size: 1rem; /* Smaller font size for the button */
+    }
+}
+
+/* Add more adjustments for very small devices */
+@media screen and (max-width: 480px) {
+    #info-box h2 {
+        font-size: 1.5rem; /* Reduce font size further for tiny screens */
+    }
+
+    #info-box img {
+        width: 100%; /* Make images fill the container */
+        max-width: 800px; /* Cap image size */
+    }
+}
+
+footer {
+    background-color: #007BFF; /* Same blue as the header */
+    color: white; /* White text for contrast */
+    text-align: center; /* Center align the text */
+    padding: 1em 0; /* Add padding for spacing */
+    font-size: 1rem; /* Adjust font size */
+    margin-top: 2em; /* Add space above footer */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+footer p {
+    margin: 0; /* Remove default margins */
+    line-height: 1.5; /* Improve readability */
+}
