@@ -24,6 +24,15 @@ if(ios) {
 
 
 
+
+
+
+
+  // If a valid value is selected, navigate to the corresponding URL
+    if (selectedValue) {
+        window.location.href = selectedValue;
+    }
+});
 document.addEventListener("DOMContentLoaded", () => {
     const svg = document.querySelector("#svg"); // Reference the embedded SVG element
     const tooltip = document.createElement("div"); // Tooltip for displaying state names
@@ -41,9 +50,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Check if the SVG is present
     if (svg) {
-        const statePaths = svg.querySelectorAll("path[data-info]"); // Select all paths with the `data-info` attribute
+        const statePaths = svg.querySelectorAll("path[data-name]"); // Select all paths with the `data-name` attribute
         if (statePaths.length === 0) {
-            console.error("No paths with a 'data-info' attribute found in the SVG.");
+            console.error("No paths with a 'data-name' attribute found in the SVG.");
             return;
         }
 
@@ -51,7 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
         statePaths.forEach((state) => {
             // Show tooltip on mouse enter
             state.addEventListener("mouseenter", (e) => {
-                const stateName = state.getAttribute("data-info"); // Get the state name
+                const stateName = state.getAttribute("data-name"); // Get the state name
                 tooltip.textContent = stateName;
                 tooltip.style.display = "block";
             });
@@ -69,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // Navigate to the corresponding state page on click
             state.addEventListener("click", () => {
-                const stateName = state.getAttribute("data-info"); // Get the state name
+                const stateName = state.getAttribute("data-name"); // Get the state name
                 if (stateName) {
                     const statePage = `States/${stateName}.html`; // Generate the page URL
                     window.location.href = statePage; // Redirect to the page
