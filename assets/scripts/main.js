@@ -754,7 +754,6 @@ const stateDetails = [
 ];
 
 // Function to populate the dropdown
-// Function to populate the dropdown
 function populateDropdown() {
     const dropdown = document.getElementById("states");
 
