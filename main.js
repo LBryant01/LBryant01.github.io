@@ -22,13 +22,13 @@ const stateDetails = [
         "capital": "Juneau",
         "bird": {
             "name": "Willow Ptarmigan",
-            "image": "images/alaska-bird.png"
+            "image": "assets/images/alaska-bird.png"
         },
         "flower": {
             "name": "Forget Me Not",
-            "image": "images/alaska-flower.png"
+            "image": "assets/images/alaska-flower.png"
         },
-        "flagImage": "images/alaska-flag.png"
+        "flagImage": "assets/images/alaska-flag.png"
     },
     {
         "id": "AZ",
@@ -37,13 +37,13 @@ const stateDetails = [
         "capital": "Phoenix",
         "bird": {
             "name": "Cactus Wren",
-            "image": "images/arizona-bird.png"
+            "image": "assets/images/arizona-bird.png"
         },
         "flower": {
             "name": "Saguaro cactus blossom",
-            "image": "images/arizona-flower.png"
+            "image": "assets/images/arizona-flower.png"
         },
-        "flagImage": "images/arizona-flag.png"
+        "flagImage": "assets/images/arizona-flag.png"
     },
     {
         "id": "AR",
@@ -52,13 +52,13 @@ const stateDetails = [
         "capital": "Little Rock",
         "bird": {
             "name": "Mockingbird",
-            "image": "images/arkansas-bird.png"
+            "image": "assets/images/arkansas-bird.png"
         },
         "flower": {
             "name": "Apple blossom",
-            "image": "images/arkansas-flower.png"
+            "image": "assets/images/arkansas-flower.png"
         },
-        "flagImage": "images/arkansas-flag.png"
+        "flagImage": "assets/images/arkansas-flag.png"
     },
     {
         "id": "CA",
@@ -67,13 +67,13 @@ const stateDetails = [
         "capital": "Sacramento",
         "bird": {
             "name": "California Valley Quail",
-            "image": "images/california-bird.png"
+            "image": "assets/images/california-bird.png"
         },
         "flower": {
             "name": "Golden poppy",
-            "image": "images/california-flower.png"
+            "image": "assets/images/california-flower.png"
         },
-        "flagImage": "images/california-flag.png"
+        "flagImage": "assets/images/california-flag.png"
     },
     {
         "id": "CO",
@@ -82,13 +82,13 @@ const stateDetails = [
         "capital": "Denver",
         "bird": {
             "name": "Lark Bunting",
-            "image": "images/colorado-bird.png"
+            "image": "assets/images/colorado-bird.png"
         },
         "flower": {
             "name": "Rocky Mountain columbine",
-            "image": "images/colorado-flower.png"
+            "image": "assets/images/colorado-flower.png"
         },
-        "flagImage": "images/colorado-flag.png"
+        "flagImage": "assets/images/colorado-flag.png"
     },
     {
         "id": "CT",
@@ -97,13 +97,13 @@ const stateDetails = [
         "capital": "Hartford",
         "bird": {
             "name": "Robin",
-            "image": "images/connecticut-bird.png"
+            "image": "assets/images/connecticut-bird.png"
         },
         "flower": {
             "name": "Mountain laurel",
-            "image": "images/connecticut-flower.png"
+            "image": "assets/images/connecticut-flower.png"
         },
-        "flagImage": "images/connecticut-flag.png"
+        "flagImage": "assets/images/connecticut-flag.png"
     },
     {
         "id": "DE",
@@ -112,13 +112,13 @@ const stateDetails = [
         "capital": "Dover",
         "bird": {
             "name": "Blue Hen Chicken",
-            "image": "images/delaware-bird.png"
+            "image": "assets/images/delaware-bird.png"
         },
         "flower": {
             "name": "Peach blossom",
-            "image": "images/delaware-flower.png"
+            "image": "assets/images/delaware-flower.png"
         },
-        "flagImage": "images/delaware-flag.png"
+        "flagImage": "assets/images/delaware-flag.png"
     },
     {
         "id": "FL",
@@ -127,13 +127,13 @@ const stateDetails = [
         "capital": "Tallahassee",
         "bird": {
             "name": "Mockingbird",
-            "image": "images/florida-bird.png"
+            "image": "assets/images/florida-bird.png"
         },
         "flower": {
             "name": "Orange blossom",
-            "image": "images/florida-flower.png"
+            "image": "assets/images/florida-flower.png"
         },
-        "flagImage": "images/florida-flag.png"
+        "flagImage": "assets/images/florida-flag.png"
     },
     {
         "id": "GA",
@@ -142,13 +142,13 @@ const stateDetails = [
         "capital": "Atlanta",
         "bird": {
             "name": "Brown Thrasher",
-            "image": "images/georgia-bird.png"
+            "image": "assets/images/georgia-bird.png"
         },
         "flower": {
             "name": "Cherokee rose",
-            "image": "images/georgia-flower.png"
+            "image": "assets/images/georgia-flower.png"
         },
-        "flagImage": "images/georgia-flag.png"
+        "flagImage": "assets/images/georgia-flag.png"
     },
     {
         "id": "HI",
@@ -157,13 +157,13 @@ const stateDetails = [
         "capital": "Honolulu",
         "bird": {
             "name": "Nene",
-            "image": "images/hawaii-bird.png"
+            "image": "assets/images/hawaii-bird.png"
         },
         "flower": {
             "name": "Hibiscus",
-            "image": "images/hawaii-flower.png"
+            "image": "assets/images/hawaii-flower.png"
         },
-        "flagImage": "images/hawaii-flag.png"
+        "flagImage": "assets/images/hawaii-flag.png"
     },
     {
         "id": "ID",
@@ -172,13 +172,13 @@ const stateDetails = [
         "capital": "Boise",
         "bird": {
             "name": "Mountain Bluebird",
-            "image": "images/idaho-bird.png"
+            "image": "assets/images/idaho-bird.png"
         },
         "flower": {
             "name": "Syringa",
-            "image": "images/idaho-flower.png"
+            "image": "assets/images/idaho-flower.png"
         },
-        "flagImage": "images/idaho-flag.png"
+        "flagImage": "assets/images/idaho-flag.png"
     },
     {
         "id": "IL",
@@ -187,13 +187,13 @@ const stateDetails = [
         "capital": "Springfield",
         "bird": {
             "name": "Cardinal",
-            "image": "images/illinois-bird.png"
+            "image": "assets/images/illinois-bird.png"
         },
         "flower": {
             "name": "Violet",
-            "image": "images/illinois-flower.png"
+            "image": "assets/images/illinois-flower.png"
         },
-        "flagImage": "images/illinois-flag.png"
+        "flagImage": "assets/images/illinois-flag.png"
     },
     {
         "id": "IN",
@@ -202,13 +202,13 @@ const stateDetails = [
         "capital": "Indianapolis",
         "bird": {
             "name": "Cardinal",
-            "image": "images/indiana-bird.png"
+            "image": "assets/images/indiana-bird.png"
         },
         "flower": {
             "name": "Peony",
-            "image": "images/indiana-flower.png"
+            "image": "assets/images/indiana-flower.png"
         },
-        "flagImage": "images/indiana-flag.png"
+        "flagImage": "assets/images/indiana-flag.png"
     },
     {
         "id": "IA",
@@ -217,13 +217,13 @@ const stateDetails = [
         "capital": "Des Moines",
         "bird": {
             "name": "Eastern Goldfinch",
-            "image": "images/iowa-bird.png"
+            "image": "assets/images/iowa-bird.png"
         },
         "flower": {
             "name": "Wild rose",
-            "image": "images/iowa-flower.png"
+            "image": "assets/images/iowa-flower.png"
         },
-        "flagImage": "images/iowa-flag.png"
+        "flagImage": "assets/images/iowa-flag.png"
     },
     {
         "id": "KS",
@@ -232,13 +232,13 @@ const stateDetails = [
         "capital": "Topeka",
         "bird": {
             "name": "Western Meadowlark",
-            "image": "images/kansas-bird.png"
+            "image": "assets/images/kansas-bird.png"
         },
         "flower": {
             "name": "Sunflower",
-            "image": "images/kansas-flower.png"
+            "image": "assets/images/kansas-flower.png"
         },
-        "flagImage": "images/kansas-flag.png"
+        "flagImage": "assets/images/kansas-flag.png"
     },
     {
         "id": "KY",
@@ -247,13 +247,13 @@ const stateDetails = [
         "capital": "Frankfort",
         "bird": {
             "name": "Cardinal",
-            "image": "images/kentucky-bird.png"
+            "image": "assets/images/kentucky-bird.png"
         },
         "flower": {
             "name": "Goldenrod",
-            "image": "images/kentucky-flower.png"
+            "image": "assets/images/kentucky-flower.png"
         },
-        "flagImage": "images/kentucky-flag.png"
+        "flagImage": "assets/images/kentucky-flag.png"
     },
     {
         "id": "LA",
@@ -262,13 +262,13 @@ const stateDetails = [
         "capital": "Baton Rouge",
         "bird": {
             "name": "Eastern Brown Pelican",
-            "image": "images/louisiana-bird.png"
+            "image": "assets/images/louisiana-bird.png"
         },
         "flower": {
             "name": "Magnolia",
-            "image": "images/louisiana-flower.png"
+            "image": "assets/images/louisiana-flower.png"
         },
-        "flagImage": "images/louisiana-flag.png"
+        "flagImage": "assets/images/louisiana-flag.png"
     },
     {
         "id": "ME",
@@ -277,13 +277,13 @@ const stateDetails = [
         "capital": "Augusta",
         "bird": {
             "name": "Chickadee",
-            "image": "images/maine-bird.png"
+            "image": "assets/images/maine-bird.png"
         },
         "flower": {
             "name": "White pine cone and tassel",
-            "image": "images/maine-flower.png"
+            "image": "assets/images/maine-flower.png"
         },
-        "flagImage": "images/maine-flag.png"
+        "flagImage": "assets/images/maine-flag.png"
     },
     {
         "id": "MD",
@@ -292,13 +292,13 @@ const stateDetails = [
         "capital": "Annapolis",
         "bird": {
             "name": "Baltimore Oriole",
-            "image": "images/maryland-bird.png"
+            "image": "assets/images/maryland-bird.png"
         },
         "flower": {
             "name": "Black-eyed susan",
-            "image": "images/maryland-flower.png"
+            "image": "assets/images/maryland-flower.png"
         },
-        "flagImage": "images/maryland-flag.png"
+        "flagImage": "assets/images/maryland-flag.png"
     },
     {
         "id": "MA",
@@ -307,13 +307,13 @@ const stateDetails = [
         "capital": "Boston",
         "bird": {
             "name": "Chickadee",
-            "image": "images/massachusetts-bird.png"
+            "image": "assets/images/massachusetts-bird.png"
         },
         "flower": {
             "name": "Mayflower",
-            "image": "images/massachusetts-flower.png"
+            "image": "assets/images/massachusetts-flower.png"
         },
-        "flagImage": "images/massachusetts-flag.png"
+        "flagImage": "assets/images/massachusetts-flag.png"
     },
     {
         "id": "MI",
@@ -322,13 +322,13 @@ const stateDetails = [
         "capital": "Lansing",
         "bird": {
             "name": "American Robin",
-            "image": "images/michigan-bird.png"
+            "image": "assets/images/michigan-bird.png"
         },
         "flower": {
             "name": "Apple blossom",
-            "image": "images/michigan-flower.png"
+            "image": "assets/images/michigan-flower.png"
         },
-        "flagImage": "images/michigan-flag.png"
+        "flagImage": "assets/images/michigan-flag.png"
     },
     {
         "id": "MN",
@@ -337,13 +337,13 @@ const stateDetails = [
         "capital": "Saint Paul",
         "bird": {
             "name": "Common Loon",
-            "image": "images/minnesota-bird.png"
+            "image": "assets/images/minnesota-bird.png"
         },
         "flower": {
             "name": "Lady slipper",
-            "image": "images/minnesota-flower.png"
+            "image": "assets/images/minnesota-flower.png"
         },
-        "flagImage": "images/minnesota-flag.png"
+        "flagImage": "assets/images/minnesota-flag.png"
     },
     {
         "id": "MS",
@@ -352,13 +352,13 @@ const stateDetails = [
         "capital": "Jackson",
         "bird": {
             "name": "Mockingbird",
-            "image": "images/mississippi-bird.png"
+            "image": "assets/images/mississippi-bird.png"
         },
         "flower": {
             "name": "evergreen magnolia",
-            "image": "images/mississippi-flower.png"
+            "image": "assets/images/mississippi-flower.png"
         },
-        "flagImage": "images/mississippi-flag.png"
+        "flagImage": "assets/images/mississippi-flag.png"
     },
     {
         "id": "MO",
@@ -367,13 +367,13 @@ const stateDetails = [
         "capital": "Jefferson City",
         "bird": {
             "name": "Bluebird",
-            "image": "images/missouri-bird.png"
+            "image": "assets/images/missouri-bird.png"
         },
         "flower": {
             "name": "Hawthorn",
-            "image": "images/missouri-flower.png"
+            "image": "assets/images/missouri-flower.png"
         },
-        "flagImage": "images/missouri-flag.png"
+        "flagImage": "assets/images/missouri-flag.png"
     },
     {
         "id": "MT",
@@ -382,13 +382,13 @@ const stateDetails = [
         "capital": "Helena",
         "bird": {
             "name": "Western Meadowlark",
-            "image": "images/montana-bird.png"
+            "image": "assets/images/montana-bird.png"
         },
         "flower": {
             "name": "Bitterroot",
-            "image": "images/montana-flower.png"
+            "image": "assets/images/montana-flower.png"
         },
-        "flagImage": "images/montana-flag.png"
+        "flagImage": "assets/images/montana-flag.png"
     },
     {
         "id": "NE",
@@ -397,13 +397,13 @@ const stateDetails = [
         "capital": "Lincoln",
         "bird": {
             "name": "Western Meadowlark",
-            "image": "images/nebraska-bird.png"
+            "image": "assets/images/nebraska-bird.png"
         },
         "flower": {
             "name": "Goldenrod",
-            "image": "images/nebraska-flower.png"
+            "image": "assets/images/nebraska-flower.png"
         },
-        "flagImage": "images/nebraska-flag.png"
+        "flagImage": "assets/images/nebraska-flag.png"
     },
     {
         "id": "NV",
@@ -412,13 +412,13 @@ const stateDetails = [
         "capital": "Carson City",
         "bird": {
             "name": "Mountain Bluebird",
-            "image": "images/nevada-bird.png"
+            "image": "assets/images/nevada-bird.png"
         },
         "flower": {
             "name": "Sagebrush",
-            "image": "images/nevada-flower.png"
+            "image": "assets/images/nevada-flower.png"
         },
-        "flagImage": "images/nevada-flag.png"
+        "flagImage": "assets/images/nevada-flag.png"
     },
     {
         "id": "NH",
@@ -427,13 +427,13 @@ const stateDetails = [
         "capital": "Concord",
         "bird": {
             "name": "Purple Finch",
-            "image": "images/new-hampshire-bird.png"
+            "image": "assets/images/new-hampshire-bird.png"
         },
         "flower": {
             "name": "Purple lilac",
-            "image": "images/new-hampshire-flower.png"
+            "image": "assets/images/new-hampshire-flower.png"
         },
-        "flagImage": "images/new-hampshire-flag.png"
+        "flagImage": "assets/images/new-hampshire-flag.png"
     },
     {
         "id": "NJ",
@@ -442,13 +442,13 @@ const stateDetails = [
         "capital": "Trenton",
         "bird": {
             "name": "Eastern Goldfinch",
-            "image": "images/new-jersey-bird.png"
+            "image": "assets/images/new-jersey-bird.png"
         },
         "flower": {
             "name": "Purple violet",
-            "image": "images/new-jersey-flower.png"
+            "image": "assets/images/new-jersey-flower.png"
         },
-        "flagImage": "images/new-jersey-flag.png"
+        "flagImage": "assets/images/new-jersey-flag.png"
     },
     {
         "id": "NM",
@@ -457,13 +457,13 @@ const stateDetails = [
         "capital": "Santa Fe",
         "bird": {
             "name": "Roadrunner",
-            "image": "images/new-mexico-bird.png"
+            "image": "assets/images/new-mexico-bird.png"
         },
         "flower": {
             "name": "Yucca",
-            "image": "images/new-mexico-flower.png"
+            "image": "assets/images/new-mexico-flower.png"
         },
-        "flagImage": "images/new-mexico-flag.png"
+        "flagImage": "assets/images/new-mexico-flag.png"
     },
     {
         "id": "NY",
@@ -472,13 +472,13 @@ const stateDetails = [
         "capital": "Albany",
         "bird": {
             "name": "Bluebird",
-            "image": "images/new-york-bird.png"
+            "image": "assets/images/new-york-bird.png"
         },
         "flower": {
             "name": "Rose",
-            "image": "images/new-york-flower.png"
+            "image": "assets/images/new-york-flower.png"
         },
-        "flagImage": "images/new-york-flag.png"
+        "flagImage": "assets/images/new-york-flag.png"
     },
     {
         "id": "NC",
@@ -487,13 +487,13 @@ const stateDetails = [
         "capital": "Raleigh",
         "bird": {
             "name": "Cardinal",
-            "image": "images/north-carolina-bird.png"
+            "image": "assets/images/north-carolina-bird.png"
         },
         "flower": {
             "name": "Dogwood",
-            "image": "images/north-carolina-flower.png"
+            "image": "assets/images/north-carolina-flower.png"
         },
-        "flagImage": "images/north-carolina-flag.png"
+        "flagImage": "assets/images/north-carolina-flag.png"
     },
     {
         "id": "ND",
@@ -502,13 +502,13 @@ const stateDetails = [
         "capital": "Bismarck",
         "bird": {
             "name": "Western Meadowlark",
-            "image": "images/north-dakota-bird.png"
+            "image": "assets/images/north-dakota-bird.png"
         },
         "flower": {
             "name": "Wild prairie rose",
-            "image": "images/north-dakota-flower.png"
+            "image": "assets/images/north-dakota-flower.png"
         },
-        "flagImage": "images/north-dakota-flag.png"
+        "flagImage": "assets/images/north-dakota-flag.png"
     },
     {
         "id": "OH",
@@ -517,13 +517,13 @@ const stateDetails = [
         "capital": "Columbus",
         "bird": {
             "name": "Cardinal",
-            "image": "images/ohio-bird.png"
+            "image": "assets/images/ohio-bird.png"
         },
         "flower": {
             "name": "Scarlet carnation",
-            "image": "images/ohio-flower.png"
+            "image": "assets/images/ohio-flower.png"
         },
-        "flagImage": "images/ohio-flag.png"
+        "flagImage": "assets/images/ohio-flag.png"
     },
     {
         "id": "OK",
@@ -532,13 +532,13 @@ const stateDetails = [
         "capital": "Oklahoma City",
         "bird": {
             "name": "Scissor-tailed Flycatcher",
-            "image": "images/oklahoma-bird.png"
+            "image": "assets/images/oklahoma-bird.png"
         },
         "flower": {
             "name": "Mistletoe",
-            "image": "images/oklahoma-flower.png"
+            "image": "assets/images/oklahoma-flower.png"
         },
-        "flagImage": "images/oklahoma-flag.png"
+        "flagImage": "assets/images/oklahoma-flag.png"
     },
     {
         "id": "OR",
@@ -547,13 +547,13 @@ const stateDetails = [
         "capital": "Salem",
         "bird": {
             "name": "Western Meadowlark",
-            "image": "images/oregon-bird.png"
+            "image": "assets/images/oregon-bird.png"
         },
         "flower": {
             "name": "Oregon grape",
-            "image": "images/oregon-flower.png"
+            "image": "assets/images/oregon-flower.png"
         },
-        "flagImage": "images/oregon-flag.png"
+        "flagImage": "assets/images/oregon-flag.png"
     },
     {
         "id": "PA",
@@ -562,13 +562,13 @@ const stateDetails = [
         "capital": "Harrisburg",
         "bird": {
             "name": "Ruffed Grouse",
-            "image": "images/pennsylvania-bird.png"
+            "image": "assets/images/pennsylvania-bird.png"
         },
         "flower": {
             "name": "Mountain laurel",
-            "image": "images/pennsylvania-flower.png"
+            "image": "assets/images/pennsylvania-flower.png"
         },
-        "flagImage": "images/pennsylvania-flag.png"
+        "flagImage": "assets/images/pennsylvania-flag.png"
     },
     {
         "id": "RI",
@@ -577,13 +577,13 @@ const stateDetails = [
         "capital": "Providence",
         "bird": {
             "name": "Rhode Island Red",
-            "image": "images/rhode-island-bird.png"
+            "image": "assets/images/rhode-island-bird.png"
         },
         "flower": {
             "name": "Violet",
-            "image": "images/rhode-island-flower.png"
+            "image": "assets/images/rhode-island-flower.png"
         },
-        "flagImage": "images/rhode-island-flag.png"
+        "flagImage": "assets/images/rhode-island-flag.png"
     },
     {
         "id": "SC",
@@ -592,13 +592,13 @@ const stateDetails = [
         "capital": "Columbia",
         "bird": {
             "name": "Great Carolina Wren",
-            "image": "images/south-carolina-bird.png"
+            "image": "assets/images/south-carolina-bird.png"
         },
         "flower": {
             "name": "Carolina yellow jessamine",
-            "image": "images/south-carolina-flower.png"
+            "image": "assets/images/south-carolina-flower.png"
         },
-        "flagImage": "images/south-carolina-flag.png"
+        "flagImage": "assets/images/south-carolina-flag.png"
     },
     {
         "id": "SD",
@@ -607,13 +607,13 @@ const stateDetails = [
         "capital": "Pierre",
         "bird": {
             "name": "Ring-necked Pheasant",
-            "image": "images/south-dakota-bird.png"
+            "image": "assets/images/south-dakota-bird.png"
         },
         "flower": {
             "name": "American pasqueflower",
-            "image": "images/south-dakota-flower.png"
+            "image": "assets/images/south-dakota-flower.png"
         },
-        "flagImage": "images/south-dakota-flag.png"
+        "flagImage": "assets/images/south-dakota-flag.png"
     },
     {
         "id": "TN",
@@ -622,13 +622,13 @@ const stateDetails = [
         "capital": "Nashville",
         "bird": {
             "name": "Mockingbird",
-            "image": "images/tennessee-bird.png"
+            "image": "assets/images/tennessee-bird.png"
         },
         "flower": {
             "name": "Iris",
-            "image": "images/tennessee-flower.png"
+            "image": "assets/images/tennessee-flower.png"
         },
-        "flagImage": "images/tennessee-flag.png"
+        "flagImage": "assets/images/tennessee-flag.png"
     },
     {
         "id": "TX",
@@ -637,13 +637,13 @@ const stateDetails = [
         "capital": "Austin",
         "bird": {
             "name": "Mockingbird",
-            "image": "images/texas-bird.png"
+            "image": "assets/images/texas-bird.png"
         },
         "flower": {
             "name": "Bluebonnet",
-            "image": "images/texas-flower.png"
+            "image": "assets/images/texas-flower.png"
         },
-        "flagImage": "images/texas-flag.png"
+        "flagImage": "assets/images/texas-flag.png"
     },
     {
         "id": "UT",
@@ -652,13 +652,13 @@ const stateDetails = [
         "capital": "Salt Lake City",
         "bird": {
             "name": "Common American Gull",
-            "image": "images/utah-bird.png"
+            "image": "assets/images/utah-bird.png"
         },
         "flower": {
             "name": "Sego lily",
-            "image": "images/utah-flower.png"
+            "image": "assets/images/utah-flower.png"
         },
-        "flagImage": "images/utah-flag.png"
+        "flagImage": "assets/images/utah-flag.png"
     },
     {
         "id": "VT",
@@ -667,13 +667,13 @@ const stateDetails = [
         "capital": "Montpelier",
         "bird": {
             "name": "Hermit Thrush",
-            "image": "images/vermont-bird.png"
+            "image": "assets/images/vermont-bird.png"
         },
         "flower": {
             "name": "Red clover",
-            "image": "images/vermont-flower.png"
+            "image": "assets/images/vermont-flower.png"
         },
-        "flagImage": "images/vermont-flag.png"
+        "flagImage": "assets/images/vermont-flag.png"
     },
     {
         "id": "VA",
@@ -682,13 +682,13 @@ const stateDetails = [
         "capital": "Richmond",
         "bird": {
             "name": "Cardinal",
-            "image": "images/virginia-bird.png"
+            "image": "assets/images/virginia-bird.png"
         },
         "flower": {
             "name": "American dogwood",
-            "image": "images/virginia-flower.png"
+            "image": "assets/images/virginia-flower.png"
         },
-        "flagImage": "images/virginia-flag.png"
+        "flagImage": "assets/images/virginia-flag.png"
     },
     {
         "id": "WA",
@@ -697,13 +697,13 @@ const stateDetails = [
         "capital": "Olympia",
         "bird": {
             "name": "Willow Goldfinch",
-            "image": "images/washington-bird.png"
+            "image": "assets/images/washington-bird.png"
         },
         "flower": {
             "name": "Coast rhododendron",
-            "image": "images/washington-flower.png"
+            "image": "assets/images/washington-flower.png"
         },
-        "flagImage": "images/washington-flag.png"
+        "flagImage": "assets/images/washington-flag.png"
     },
     {
         "id": "WV",
@@ -712,13 +712,13 @@ const stateDetails = [
         "capital": "Charleston",
         "bird": {
             "name": "Cardinal",
-            "image": "images/west-virginia-bird.png"
+            "image": "assets/images/west-virginia-bird.png"
         },
         "flower": {
             "name": "Rhododendron",
-            "image": "images/west-virginia-flower.png"
+            "image": "assets/images/west-virginia-flower.png"
         },
-        "flagImage": "images/west-virginia-flag.png"
+        "flagImage": "assets/images/west-virginia-flag.png"
     },
     {
         "id": "WI",
@@ -727,13 +727,13 @@ const stateDetails = [
         "capital": "Madison",
         "bird": {
             "name": "Robin",
-            "image": "images/wisconsin-bird.png"
+            "image": "assets/images/wisconsin-bird.png"
         },
         "flower": {
             "name": "Wood violet",
-            "image": "images/wisconsin-flower.png"
+            "image": "assets/images/wisconsin-flower.png"
         },
-        "flagImage": "images/wisconsin-flag.png"
+        "flagImage": "assets/images/wisconsin-flag.png"
     },
     {
         "id": "WY",
@@ -742,13 +742,13 @@ const stateDetails = [
         "capital": "Cheyenne",
         "bird": {
             "name": "Western Meadowlark",
-            "image": "images/wyoming-bird.png"
+            "image": "assets/images/wyoming-bird.png"
         },
         "flower": {
             "name": "Indian paintbrush",
-            "image": "images/wyoming-flower.png"
+            "image": "assets/images/wyoming-flower.png"
         },
-        "flagImage": "images/wyoming-flag.png"
+        "flagImage": "assets/images/wyoming-flag.png"
     }
 ];
 
