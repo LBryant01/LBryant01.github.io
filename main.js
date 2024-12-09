@@ -7,13 +7,13 @@ const stateDetails = [
         "capital": "Montgomery",
         "bird": {
             "name": "Yellowhammer",
-            "image": "images/alabama-bird.png"
+            "image": "assets/images/alabama-bird.png"
         },
         "flower": {
             "name": "Camellia",
-            "image": "images/alabama-flower.png"
+            "image": "assets/images/alabama-flower.png"
         },
-        "flagImage": "images/alabama-flag.png"
+        "flagImage": "assets/images/alabama-flag.png"
     },
     {
         "id": "AK",
