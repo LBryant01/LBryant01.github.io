@@ -754,8 +754,19 @@ const stateDetails = [
 ];
 
 // Function to populate the dropdown
+// Function to populate the dropdown
 function populateDropdown() {
     const dropdown = document.getElementById("states");
+
+    // Add an empty placeholder option
+    const placeholderOption = document.createElement("option");
+    placeholderOption.value = ""; 
+    placeholderOption.textContent = "Select a state";
+    placeholderOption.disabled = true; 
+    placeholderOption.selected = true; 
+    dropdown.appendChild(placeholderOption);
+
+    // Populate the dropdown with state options
     stateDetails.forEach((state) => {
         const option = document.createElement("option");
         option.value = state.id;
@@ -772,6 +783,7 @@ function populateDropdown() {
         }
     });
 }
+
 
 // Function to handle map clicks and highlights
 function addMapEventListeners() {
