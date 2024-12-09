@@ -1,3 +1,4 @@
+
 // State details array 
 const stateDetails = [
     {
