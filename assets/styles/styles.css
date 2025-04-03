@@ -58,6 +58,10 @@ path {
 path:hover {
     fill: #007BFF; /* Highlight color on hover (same blue as header and footer) */
 }
+path::after{
+    content: "#path";
+     color: black;
+}
 
 path.active {
     fill: #0056b3; /* Slightly darker blue when selected */
